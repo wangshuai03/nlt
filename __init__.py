@@ -1,1 +1,1 @@
-__author__ = 'wangshuai'
+__author__ = 'shuaiwang05@gmail.com'
